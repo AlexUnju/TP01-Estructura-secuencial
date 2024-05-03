@@ -73,7 +73,7 @@ de ejecución para una cantidad de dinero depositada de 12896
 
 | Cantidad de dinero | Ahorros 1er año | Ahorros 2do año | Ahorros 3er año |
 |---------------------|------------------|------------------|------------------|
-| 12896               | 13411.84         | 13948.31         | 1406.2           |
+| 12896               | 13411.84         | 13948.31         | 14506.2           |
 
 #### Resolución:
 
